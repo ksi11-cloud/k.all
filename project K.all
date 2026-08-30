@@ -1,0 +1,89 @@
+# Project K,all 🇮🇳
+
+## Vision
+
+Project K.all is a citizen-focused platform designed to help people
+discover, understand, prepare for, apply for, and track government
+ vacancies benefits and schemes relevant to their individual circumstances.
+
+## Core Workflow
+
+User Profile
+→ Scheme Matching
+→ Eligibility Explanation
+→ Counselling
+→ Application Assistance
+→ Documents
+→ Authorised Government Integration
+→ Application Tracking
+
+## Initial Goals
+
+1. Build a verified government scheme database.
+2. Build an eligibility matching engine.
+3. Provide personalised scheme recommendations.
+4. Explain eligibility in simple language.
+5. Provide application assistance.
+6. Build secure document management.
+7. Integrate with authorised government services where possible.
+8. Provide application tracking where supported.
+
+## Phase Roadmap
+
+### Phase 0 — Research
+- Competitor research
+- Government ecosystem research
+- API/integration research
+- Legal/privacy requirements
+- Product differentiation
+
+### Phase 1 — Scheme Database
+- Central Government schemes
+- State/UT schemes
+- Ministries and departments
+- Eligibility rules
+- Benefits
+- Documents
+- Application routes
+- Official sources
+- Verification dates
+
+### Phase 2 — Eligibility Engine
+Convert scheme eligibility requirements into machine-readable rules.
+
+### Phase 3 — MVP Application
+Build the first working mobile/web application.
+
+### Phase 4 — Counselling Engine
+Provide personalised recommendations and explain why schemes match.
+
+### Phase 5 — Application Assistant
+Help users prepare applications and reuse information safely.
+
+### Phase 6 — Government Integrations
+Investigate and implement authorised APIs and integrations.
+
+### Phase 7 — Application Tracking
+Track application status where official systems provide access.
+
+### Phase 8 — Scale
+Expand across Central Government, 28 States and 8 Union Territories.
+
+## Product Principles
+
+- Citizen first
+- Official sources first
+- Simple language
+- Transparent eligibility
+- Privacy by design
+- Security by design
+- Never claim guaranteed eligibility
+- Never bypass government authentication
+- Never fabricate government information
+- Always show the source and verification date
+
+## Current Status
+
+Phase 0 / Phase 1
+
+Repository created.
